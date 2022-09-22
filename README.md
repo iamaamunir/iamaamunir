@@ -14,4 +14,6 @@ I'm a Software Engineer, Mechatronics engineering student, and Community Manager
 - 📫 You can [view my resume](#) and contact me by emailing abdullahimunir3@gmail.com. Connect with me on [LinkedIn](https://www.linkedin.com/in/munir-a-abdullahi-917051203/)
 
 ---
-[![Munir's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamaamunir)](https://github.com/iamaamunir/github-readme-stats)
+[![Munir's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamaamunir&layout=compact)](https://github.com/iamaamunir/github-readme-stats)
