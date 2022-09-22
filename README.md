@@ -18,7 +18,9 @@ I'm a Software Engineer, Mechatronics engineering student, and Community Manager
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamaamunir&layout=compact)](https://github.com/iamaamunir/github-readme-stats)
 [![iamaamunir's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=iamaamunir)](https://github.com/iamaamunir/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iamaamunir&repo=github-readme-stats)](https://github.com/iamaamunir/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="[https://github-readme-stats.vercel.app/api/pin/?username=iamaamunir&repo=Bankist-App](https://github-readme-stats.vercel.app/api/wakatime?username=iamaamunir)" />
+</a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iamaamunir&repo=Bankist-App" />
