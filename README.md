@@ -15,7 +15,7 @@ I'm a Software Engineer, Mechatronics engineering student, and Community Manager
 
 ---
 
-[![Munir's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamaamunir)](https://github.com/iamaamunir/github-readme-stats&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
+![Munir's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamaamunir&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamaamunir&layout=compact)](https://github.com/iamaamunir/github-readme-stats)
 [![iamaamunir's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=iamaamunir)](https://github.com/iamaamunir/github-readme-stats)
 
