@@ -24,3 +24,7 @@ I'm a Software Engineer, Mechatronics engineering student, and Community Manager
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iamaamunir&repo=Bankist-App" />
 </a>
 
+
+<a href="https://github.com/iamaamunir/Bankist-App">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iamaamunir&repo=Bankist-App" />
+</a>
