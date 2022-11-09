@@ -10,7 +10,7 @@ I'm a Software Engineer, Mechatronics engineering student, and Community Manager
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022. I am driven by passion, resilience and enthusiasm to discover his capabilities which would shape him into impacting positively to the society. I am experience in Electronics and Control Softwares like Matlab, Arduino and Proteus
 - 🌱 I’m currently learning JavaScript, Nodejs, and other backend technologies.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, Web designer With HTML and CSS (Intern or Junior level).
+- 💼 Job interests: Software Engineer, Backend developer With Nodejs ExpressJs and MongoDB (Intern or Junior level).
 - 📫 You can [view my resume](#) and contact me by emailing abdullahimunir3@gmail.com. Connect with me on [LinkedIn](https://www.linkedin.com/in/munir-a-abdullahi-917051203/)
 
 ---
