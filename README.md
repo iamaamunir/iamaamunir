@@ -13,6 +13,11 @@ I'm a Software Engineer, Mechatronics engineering student, and ex. Campus Commun
 - 💼 Job interests: Software Engineer, Backend developer With Nodejs ExpressJs and MongoDB (Intern or Junior level).
 - 📫 You can [view my resume](#) and contact me by emailing abdullahimunir3@gmail.com. Connect with me on [LinkedIn](https://www.linkedin.com/in/munir-a-abdullahi-917051203/)
 
+<a href="https://www.github.com/iamaamunir" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/iamaamunir?logo=github&style=for-the-badge&color=6366f1&labelColor=1c1917" /></a><a href="https://www.twitter.com/iamaamunir" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/iamaamunir?logo=twitter&style=for-the-badge&color=6366f1&labelColor=1c1917"
+/></a>
+
 ---
 
 ![Munir's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamaamunir&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
